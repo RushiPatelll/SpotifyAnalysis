@@ -1,5 +1,11 @@
 # Spotify Analysis
-Personal project to clean, visualize and formulate a KNN model to predict if a song is popular or not.
+Personal project to clean, visualize and formulate a KNN model to predict if a song is popular or not. I presented my project at UC Berkeley's Data Science Society Club's project symposium in April of 2022.
+
+# Link to Google Slides:
+https://docs.google.com/presentation/d/1Wc1eBcisXemH-hqIt1vjCYLAX44aA1pBN9jV7qCNPI8/edit?usp=sharing
+
+# Link to Deepnote notebook:
+https://deepnote.com/workspace/DSS-Rushi-Emma-Justin-Serena-186288fa-eb6b-44a2-8d50-b9093da0e132/project/Spotify-Analysis-03b97c79-68cf-4f10-897d-adffb68056ae/%2Fnotebook.ipynb
 
 # The Dataset
 The dataset can be found here: https://www.kaggle.com/datasets/ektanegi/spotifydata-19212020
